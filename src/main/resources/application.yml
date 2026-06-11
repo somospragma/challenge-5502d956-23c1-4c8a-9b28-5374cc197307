@@ -1,0 +1,5 @@
+spring:
+  webflux:
+    base-url: http://localhost:8080
+  application:
+    name: payment-system
